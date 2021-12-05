@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, feel free to check out my repo's 
+#Note: this readme is in progress.
+
 
 <!--
 **AndrewDunham/AndrewDunham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
