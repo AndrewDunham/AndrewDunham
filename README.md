@@ -1,5 +1,5 @@
 ### Hey there, feel free to check out my repo's 
-#Note: this readme is in progress.
+
 
 
 <!--
